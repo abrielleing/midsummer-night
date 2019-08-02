@@ -3,7 +3,7 @@
     "name": "midsummer-night",
     "displayName": "Midsummer Night",
     "description": "A warm theme that's easy on the eyes based on the colors of the Horizon theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.36.0"
     },
